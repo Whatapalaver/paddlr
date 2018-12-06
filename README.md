@@ -2,6 +2,8 @@
 
 Final project is hosted in Heroku ar [paddlr.live](http://paddlr.live)
 
+![Screenshot](./docs/paddlr.png)
+
 ## Project Overview:
 As this was our final project at Maker's Academy, we decided to pay tribute to its table-tennis culture by creating an application dedicated to the art. The application will link to user's slack accounts, where games can be arranged, players can be ranked and tournaments can be generated.
 
