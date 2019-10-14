@@ -1,6 +1,6 @@
 # paddlr <img src="https://res.cloudinary.com/dani-devs-and-designs/image/upload/v1537203697/Screen_Shot_2018-09-17_at_14.14.03_e8e0ew.png" alt="paddlr logo" width="180"> 
 
-Final project is hosted in Heroku ar [paddlr.live](http://paddlr.live)
+Final project is hosted in Heroku at [paddlr](https://paddlr.herokuapp.com)
 
 ![Screenshot](./docs/paddlr.png)
 
